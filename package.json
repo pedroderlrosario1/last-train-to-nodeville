@@ -1,0 +1,24 @@
+{
+  "name": "last-train-to-nodeville",
+  "version": "1.0.0",
+  "description": "In the initial commit to this project, you have been provided with files in an initial commit that contain a JavaScript module and some associated tests. Your task is to use NPM to setup the necessary project dependencies to make it possible for the command `npm test` to successfully run the test suite.",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^6.2.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pedroderlrosario1/last-train-to-nodeville.git"
+  },
+  "author": "Pedro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pedroderlrosario1/last-train-to-nodeville/issues"
+  },
+  "homepage": "https://github.com/pedroderlrosario1/last-train-to-nodeville#readme"
+}
